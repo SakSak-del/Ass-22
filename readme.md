@@ -19,16 +19,13 @@ Plan to achieve by the end of project.
 
 [Home Page Screenshot]
 
-![home Page](home pg1.png)
-
-![home Page](home pg2.png)
+![Home Page](./img/home1.png)
+![Home Page](./img/home2.png)
 
 
 [Menu Page Screenshot]
-
-![menu Page] (menu1.png)
-
-![menu Page] (menu2.png)
+![Menu Page](./img/menu1.png)
+![Menu Page](./img/menu2.png)
 
 
 
